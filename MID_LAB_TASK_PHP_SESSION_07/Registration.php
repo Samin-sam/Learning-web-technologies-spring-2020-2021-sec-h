@@ -66,7 +66,7 @@
             <td colspan="2">
                 <table style="width: 100%;">
                     <tr>
-                        <td><img src="logo.png" alt="Logo"></td>
+                        <td><img src="logo1.png" alt="Logo"></td>
                         <td style="float: right; margin-top:30px;">
                         <a style="padding: 5px;" href="One.php">Home</a>
                         <a style="padding: 5px;" href="login.php">Login</a>
