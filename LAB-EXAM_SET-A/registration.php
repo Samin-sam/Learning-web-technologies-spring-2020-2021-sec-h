@@ -9,8 +9,8 @@
 			<legend>Registration</legend>
 			<table>
 				<tr>
-					<td>Username</td>
-					<td><input type="text" name="username" value=""> </td>
+					<td>Id</td>
+					<td><input type="text" name="Id" value=""> </td>
 				</tr>
 				<tr>
 					<td>Password</td>
@@ -21,14 +21,14 @@
 					<td><input type="password" name="repass" value=""> </td>
 				</tr>
 				<tr>
-					<td>Email</td>
-					<td><input type="email" name="email" value=""> </td>
+					<td>Name</td>
+					<td><input type="text" name="username" value=""> </td>
 				</tr>
 				<tr>
 					<td></td>
 					<td>
 						<input type="submit" name="signup" value="Submit"> 
-						<a href="login.html">Login</a>
+						<a href="login.html">Sign Up</a>
 					</td>
 				</tr>
 			</table>
