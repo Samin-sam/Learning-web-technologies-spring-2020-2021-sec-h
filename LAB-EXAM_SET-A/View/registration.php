@@ -41,7 +41,7 @@
 				<tr>
 					<td>
 						<input type="submit" name="signup" value="Sign Up"> 
-						<a href="login.html">Sign Up</a>
+						<a href="login.html">Sign In</a>
 					</td>
 				</tr>
 			</table>
