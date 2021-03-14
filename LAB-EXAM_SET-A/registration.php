@@ -27,8 +27,8 @@
 				<tr>
 					<td></td>
 					<td>
-						<input type="submit" name="signup" value="Submit"> 
-						<a href="login.html">Sign Up</a>
+						<input type="Sign Up" name="signup" value="Submit"> 
+						<a href="login.html">Sign In</a>
 					</td>
 				</tr>
 			</table>
