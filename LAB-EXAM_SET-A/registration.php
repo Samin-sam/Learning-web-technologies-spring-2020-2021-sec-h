@@ -6,29 +6,42 @@
 <body>
 	<form method="post">
 		<fieldset>
-			<legend>Registration</legend>
+			<legend><b>Registration</b></legend>
 			<table>
 				<tr>
 					<td>Id</td>
+					<tr>
 					<td><input type="text" name="Id" value=""> </td>
 				</tr>
 				<tr>
 					<td>Password</td>
+					<tr>
 					<td><input type="password" name="password" value=""> </td>
 				</tr>
 				<tr>
 					<td>Confirm Password</td>
+					<tr>
 					<td><input type="password" name="repass" value=""> </td>
 				</tr>
 				<tr>
 					<td>Name</td>
+					<tr>
 					<td><input type="text" name="username" value=""> </td>
 				</tr>
+
 				<tr>
-					<td></td>
+					<td>User Type</td>
+					<tr>
+					<td> 
+						<input type="radio" name="gender"> User
+						<input type="radio" name="gender"> Admin
+					</td>
+				</tr>
+
+				<tr>
 					<td>
-						<input type="Sign Up" name="signup" value="Submit"> 
-						<a href="login.html">Sign In</a>
+						<input type="submit" name="signup" value="Sign Up"> 
+						<a href="login.html">Sign Up</a>
 					</td>
 				</tr>
 			</table>
